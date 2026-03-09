@@ -5,6 +5,12 @@
 &bull; Currently working on a graduation project <strong>Corrupted File Detection & Management Tool</strong> 📁
 </p>
 
+<h2 align="center">🌐 Socials</h2>
+<p align="center">
+	<a href="https://www.linkedin.com/in/ahmed-alshaikh-mohammed" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+</p>
 
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
