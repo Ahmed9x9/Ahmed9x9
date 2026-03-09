@@ -1,8 +1,8 @@
 # 🛡️ About Me:
 <p align="center">
-- I'm **Ahmed Al-Shaikh**, a Cybersecurity & Digital Forensics student at **Imam Abdulrahman Bin Faisal University (IAU)** 🇸🇦
-- Interested in **Digital Forensics**, **File Integrity**, **Security Tools**, and **secure software development**.
-- Currently working on: **Corrupted File Detection & Management Tool** 📁
+• I'm **Ahmed Al-Shaikh** a Cybersecurity & Digital Forensics student at **Imam Abdulrahman Bin Faisal University (IAU)** 🇸🇦  <br>
+• I’m interested in **Digital Forensics**, **File Integrity**, **Security Tools**, and **secure software development**.  <br>
+• Currently working on a graduation project: **Corrupted File Detection & Management Tool** 📁
 
 
 # 💻 Tech Stack:
