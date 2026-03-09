@@ -24,8 +24,8 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed9x9&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed9x9&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Ahmed9x9&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed9x9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed9x9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
 </p>
 
