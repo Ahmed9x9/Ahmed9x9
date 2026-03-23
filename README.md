@@ -30,7 +30,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Ahmed9x9&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://streak-stats.demolab.com?user=Ahmed9x9&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 
