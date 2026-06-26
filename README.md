@@ -1,7 +1,6 @@
 <h2 align="center">🛡️ About Me</h2>
 <p align="center">
 &bull; I'm <strong>Ahmed Al-Shaikh</strong>, a Cybersecurity & Digital Forensics student at <strong>(IAU)</strong> 🇸🇦<br>
-&bull; I’m interested in <strong>Digital Forensics</strong>, <strong>File Integrity</strong>, <strong>Security Tools</strong>, and <strong>secure software development</strong><br>
 &bull; Currently working on a graduation project <strong>Corrupted File Detection & Management Tool</strong> 📁
 </p>
 
