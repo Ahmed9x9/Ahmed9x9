@@ -29,7 +29,9 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahmed9x9&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <a href="https://github.com/Ahmed9x9#year-list">
+    <img src="./profile/streak.svg" alt="Ahmed9x9's GitHub contribution streak" width="495" height="195" />
+  </a>
 </p>
 
 
